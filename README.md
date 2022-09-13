@@ -19,7 +19,7 @@ no_networkx_pagerank.py是完全自己实现的，但由于直接使用了numpy�
 3.[ZXY版本，上古战神之一，代码较长，偏工程，可能是为了解决打包成exe时遇到的问题，不然这么长很奇怪。](https://github.com/kypomon/NKU_big-data_PAGERANK) <br>
 4.[不知名往届版本，代码较短，不过有些细节不是手动实现。](https://github.com/Epiphqny/Pagerank) <br>
 5.[不知名往届版本，我的数据加载主要借鉴他的想法。但是他对block_stripe的理解与课程要求不一致](https://github.com/lifengheng/pagerank) <br>
-6.[不知名往届版本，分块更新较为合理，有参考价值](https://github.com/wymli/PageRank) <br>
+6.[外校的版本应该是](https://github.com/wymli/PageRank) <br>
 7.[不知名往届版本，分块更新可供参考](https://github.com/cdasl/big-data_pagerank)<br>
 8.[不知名往届版本，分块更新可供参考](https://github.com/yzy-source/PageRank)<br>
 9.[不知名往届版本，少数实现了R的分条的，即stripe，有参考价值](https://github.com/gitdxj/teleport-pagerank)<br>
